@@ -28,8 +28,8 @@ More projects and documentation coming soon.
 Connect With Me
 
 - GitHub: You're already here!
-- LinkedIn: Add your profile URL
-- Portfolio: Add your portfolio URL
+- LinkedIn: https://www.linkedin.com/in/fauzanalfarikhi
+- Portfolio: https://www.frikhii.my.id/
 
 ---
 
